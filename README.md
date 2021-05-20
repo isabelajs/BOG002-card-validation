@@ -20,16 +20,16 @@ Desarrollamos un Aplicativo Web responsive para una tienda de mascotas, a partir
       <td>Página principal con carrito desplazado </td>
     </tr>
     <tr>
-      <td><img src="./src/assets/finalProduct/producto-final-inicio.png" width=500 > </td>
-      <td><img src="./src/assets/finalProduct/producto-final-canasta.png" width=500 > </td>
+      <td><img src="./docs/assets/finalProduct/producto-final-inicio.png" width=500 > </td>
+      <td><img src="./docs/assets/finalProduct/producto-final-canasta.png" width=500 > </td>
     </tr>
     <tr>
       <td>Página de pago </td>
       <td>Página de pago con mensaje de alert </td>
     </tr>
     <tr>
-      <td><img src="./src/assets/finalProduct/producto-final-pagos.png" width=500></td>
-      <td><img src="./src/assets/finalProduct/producto-final-validacion.png" width=500></td>
+      <td><img src="./docs/assets/finalProduct/producto-final-pagos.png" width=500></td>
+      <td><img src="./docs/assets/finalProduct/producto-final-validacion.png" width=500></td>
     </tr>
   </table>
 
@@ -48,16 +48,16 @@ Se esbozo una idea principal de lo que sería el aplicativo.
       <td>Página principal con carrito desplazado </td>
     </tr>
     <tr>
-      <td><img src="./src/assets/finalProduct/mainPage.png" width=500 > </td>
-      <td><img src="./src/assets/finalProduct/mainPageCart.png" width=500 > </td>
+      <td><img src="./docs/assets/finalProduct/mainPage.png" width=500 > </td>
+      <td><img src="./docs/assets/finalProduct/mainPageCart.png" width=500 > </td>
     </tr>
     <tr>
       <td>Página de pago </td>
       <td>Página de pago con mensaje de alert </td>
     </tr>
     <tr>
-      <td><img src="./src/assets/finalProduct/payPage.png" width=500></td>
-      <td><img src="./src/assets/finalProduct/payPageAlert.png" width=500></td>
+      <td><img src="./docs/assets/finalProduct/payPage.png" width=500></td>
+      <td><img src="./docs/assets/finalProduct/payPageAlert.png" width=500></td>
     </tr>
   </table>
 
@@ -73,24 +73,24 @@ Finalmente se desarrolo el último prototipado, por medio de la herramienta Figm
       <td> Diseño alert </td>
     </tr>
     <tr>
-      <td><img src="./src/assets/finalProduct/figma-componentes.png" width=500></td>
-      <td><img src="./src/assets/finalProduct/figma-alert.png" width=500></td>
+      <td><img src="./docs/assets/finalProduct/figma-componentes.png" width=500></td>
+      <td><img src="./docs/assets/finalProduct/figma-alert.png" width=500></td>
     </tr>
     <tr>
       <td>Página principal</td>
       <td>Página de pagos </td>
     </tr>
     <tr>
-      <td><img src="./src/assets/finalProduct/figma-mainPage.png" width=500 > </td>
-      <td><img src="./src/assets/finalProduct/figma-payPage.png" width=500 > </td>
+      <td><img src="./docs/assets/finalProduct/figma-mainPage.png" width=500 > </td>
+      <td><img src="./docs/assets/finalProduct/figma-payPage.png" width=500 > </td>
     </tr>
     <tr>
       <td>Diseño canasta  </td>
       <td> Diseño alert dentro de la página</td>
     </tr>
     <tr>
-      <td><img src="./src/assets/finalProduct/figma-canasta.png" width=500></td>
-      <td><img src="./src/assets/finalProduct/figma-payPageAlert.png" width=500></td>
+      <td><img src="./docs/assets/finalProduct/figma-canasta.png" width=500></td>
+      <td><img src="./docs/assets/finalProduct/figma-payPageAlert.png" width=500></td>
     </tr>
   </table>
 
