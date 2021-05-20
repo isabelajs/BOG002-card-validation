@@ -13,7 +13,6 @@ Tienda virtual especializada en productos de mascotas.
 Desarrollamos un Aplicativo Web responsive para una tienda de mascotas, a partir de Javascript Vanilla, Html y Css, donde al finalizar la compra el cliente puede validar el número de su tarjeta de crédito y cuenta con la funcionalidad de ocultar todos los dígitos de su tarjeta exceptuando los últimos cuatro dígitos.
 
 ## 2. Producto final
-
 <table>
     <tr>
       <td>Página principal</td>
@@ -95,5 +94,8 @@ Finalmente se desarrolo el último prototipado, por medio de la herramienta Figm
   </table>
 
   ## 4.Demo
+  [Tienda de Mascotas](https://isabelajs.github.io/BOG002-card-validation/)
   
   ## 5. Autores
+  Isabela Jimenez
+  Julissa Vigoya
